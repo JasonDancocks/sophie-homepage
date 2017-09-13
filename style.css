@@ -1,0 +1,17 @@
+ul {
+ text-align: left;
+  list-style: inside;
+
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+body {
+  font-family: helvetica;
+}
